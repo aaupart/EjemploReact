@@ -1,0 +1,27 @@
+{
+    "service": {
+        "reporte": {
+            "outbound": {
+                "prop": "http://10.89.61.107:9090/OutboundServices/service/rest/solicitudes/obtenerSolicitudesOutbound"
+            },
+            "dicta1": {
+                "prop": "http://10.89.61.107:9090/OutboundServices/service/rest/solicitudes/obtenerSolicitudesDictaminacion1"
+            },
+            "dicta3": {
+                "prop": "http://10.89.61.107:9090/OutboundServices/service/rest/solicitudes/obtenerSolicitudesDictaminacion3"
+            },
+            "verdes": {
+                "prop": "http://10.89.61.107:9090/OutboundServices/service/rest/solicitudes/obtenerSolicitudesAnalisisEspecializado"
+            },
+            "citas": {
+                "prop": "http://10.89.61.107:9090/OutboundServices/service/rest/solicitudes/obtenerSolicitudesJP"
+            },
+            "reest": {
+                "prop": "http://10.89.61.107:9090/OutboundServices/service/rest/solicitudes/obtenerReestructura"
+            },
+            "eaz": {
+                "prop": "http://10.89.61.107:9090/OutboundServices/service/rest/solicitudes/obtenerEmpresarioAzteca"
+            }
+        }
+    }
+}

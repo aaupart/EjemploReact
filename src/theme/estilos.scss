@@ -1,0 +1,27 @@
+.App-footer-sass {
+    color:#2A3F4B;
+    text-align: center;
+
+    strong {
+        font-size: 8rem;
+        margin: 0%;
+    }
+
+    p {
+        font-size: 1.5rem;
+        font-weight: bolder;
+        margin: 0%;
+    }
+}
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 15px;
+  border: 1px solid #c9cacb;
+  border-radius: 3px;
+}

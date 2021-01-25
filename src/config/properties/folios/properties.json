@@ -1,0 +1,9 @@
+{
+    "service": {
+        "folio": {
+            "infoFolios": {
+                "prop": "http://10.89.61.107:9090/OutboundServices/service/mesacredito/folio/consultarFolioMCO/infoFolios"
+            }
+        }
+    }
+}
